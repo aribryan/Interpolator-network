@@ -1,0 +1,2 @@
+input1 = '/graphics/scratch/parallax/captured/all_frames/frame_000008_00.ppm'
+input2= '/graphics/scratch/parallax/captured/all_frames/frame_000008_02.ppm'
